@@ -56,7 +56,7 @@ PixelCipher is a simple steganography application built with Python, Tkinter, an
 
 ## Screenshots
 
-![image](https://github.com/Vaniluthra/Pixel-Cipher/assets/94587714/e437519a-9dbe-4a21-aa17-3549812c2a5c)
-
-![image](https://github.com/Vaniluthra/Pixel-Cipher/assets/94587714/203c53f4-9dd4-4999-a67e-4592a7d3cf52)
-
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/Vaniluthra/Pixel-Cipher/assets/94587714/e43ce015-8470-4552-9d18-f34aac81a68f" alt="Screenshot 1" width="45%">
+    <img src="https://github.com/Vaniluthra/Pixel-Cipher/assets/94587714/203c53f4-9dd4-4999-a67e-4592a7d3cf52" alt="Screenshot 2" width="45%">
+</div>
