@@ -68,7 +68,7 @@ class Stegno:
         self.message_entry = Text(self.current_frame, height=5, width=40)
         self.message_entry.grid(row=1, columnspan=2, padx=10)
 
-        password_label = Label(self.current_frame, text='Enter password:', font=('courier', 12))
+        password_label = Label(self.current_frame, text='Set password:', font=('courier', 12))
         password_label.grid(row=2, columnspan=2, pady=5)
 
         self.password_entry = Entry(self.current_frame, show='*')
