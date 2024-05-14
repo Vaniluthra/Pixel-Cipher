@@ -15,6 +15,8 @@ PixelCipher is a simple steganography application built with Python, Tkinter, an
     ```
     pip install pillow
     ```
+- **hashlib**:
+  - The `hashlib` module is used for secure hashing of passwords. It is included with Python's standard library and does not require additional installation.
 
 ## Running the Application
 
